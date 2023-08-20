@@ -12,7 +12,7 @@ This application
 
 ● Stores previously entered information (in a database) and retrieves it when searched for making changes to existing CV
 
-Developed by C B Ananya, Ayshwarya B
+Developed by C B Ananya and Ayshwarya B
 
 ## Motivation to take up the problem
 
