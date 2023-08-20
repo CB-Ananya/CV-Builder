@@ -1,6 +1,6 @@
 # CV Builder 
 
-This application
+This application 
 
 ● Provides a template regarding what information to include in a CV (Ex: Picture, Bio-data, Skills, Qualification, Work Experience)
 
